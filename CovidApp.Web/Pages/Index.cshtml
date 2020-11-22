@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Imię
+            </th>
+            <th>
+                Nazwisko
+            </th>
+            <th>
+                Pesel
+            </th>
+            <th>
+                Szczegóły
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.HospitalPatients)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DocumentId)
+                </td>
+                <td>
+                    <a asp-page="@nameof(Details)" asp-route-id="@item.Id" class="card-link">
+                        Szczegóły
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

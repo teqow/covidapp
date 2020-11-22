@@ -1,0 +1,29 @@
+﻿@page
+@model CovidApp.Web.Pages.PatientModel
+@{
+    ViewData["Title"] = "Patient";
+}
+
+<h1>Patient</h1>
+
+<div class="container">
+    <p></p>
+    <div class="row">
+        <div class="col-sm-12 col-lg-6">
+            <form method="post" enctype="multipart/form-data">
+                Imie:
+                <input asp-for="HospitalPatient.FirstName" />
+                Nazwisko:
+                <input asp-for="HospitalPatient.LastName" />
+                Wiek:
+                <input asp-for="HospitalPatient.Age" />
+                Pesel:
+                <input asp-for="HospitalPatient.DocumentId" />
+                Zdjęcie:
+                <input type="file" asp-for="HospitalPatient.Photo">
+
+                <input type="submit" />
+            </form>
+        </div>
+    </div>
+</div>

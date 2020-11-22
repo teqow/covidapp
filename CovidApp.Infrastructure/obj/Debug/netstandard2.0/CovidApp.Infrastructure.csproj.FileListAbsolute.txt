@@ -1,0 +1,14 @@
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\CovidApp.Infrastructure.deps.json
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\CovidApp.Infrastructure.dll
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\CovidApp.Infrastructure.pdb
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.csprojAssemblyReference.cache
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.AssemblyInfoInputs.cache
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.AssemblyInfo.cs
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.dll
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.pdb
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\CovidApp.Domain.dll
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\CovidApp.Domain.pdb
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.csproj.CopyComplete
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\sandbox\CovidApp\CovidApp.Infrastructure\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\sandbox\CovidApp\CovidApp.Infrastructure\obj\Debug\netstandard2.0\CovidApp.Infrastructure.csproj.CoreCompileInputs.cache

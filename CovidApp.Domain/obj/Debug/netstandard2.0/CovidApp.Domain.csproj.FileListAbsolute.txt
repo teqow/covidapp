@@ -1,0 +1,9 @@
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.csproj.CoreCompileInputs.cache
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.AssemblyInfoInputs.cache
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.AssemblyInfo.cs
+D:\sandbox\CovidApp\CovidApp.Domain\bin\Debug\netstandard2.0\CovidApp.Domain.deps.json
+D:\sandbox\CovidApp\CovidApp.Domain\bin\Debug\netstandard2.0\CovidApp.Domain.dll
+D:\sandbox\CovidApp\CovidApp.Domain\bin\Debug\netstandard2.0\CovidApp.Domain.pdb
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.dll
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.pdb
+D:\sandbox\CovidApp\CovidApp.Domain\obj\Debug\netstandard2.0\CovidApp.Domain.csprojAssemblyReference.cache

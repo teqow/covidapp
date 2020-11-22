@@ -1,0 +1,16 @@
+﻿@page "{id:guid}"
+@model CovidApp.Web.Pages.Details
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<section class="col-md-8">
+    <img src="@Model.HospitalPatient.Photo" class="card-img-top" alt="@Model.HospitalPatient.FirstName">
+
+
+    <h3>@Model.HospitalPatient.LastName</h3>
+    <h3>@Model.HospitalPatient.DocumentId</h3>
+    <h3>@Model.HospitalPatient.Age</h3>
+</section>
